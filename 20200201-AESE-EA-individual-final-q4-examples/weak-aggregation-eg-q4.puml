@@ -1,0 +1,19 @@
+@startuml Question 4: Examples
+
+skinparam {
+    backgroundColor white
+}
+skinparam class {
+    backgroundColor #CDEFF0
+}
+
+team "1" <---o "*" human
+
+bookClub "1" <---o "*" human
+
+@enduml
+
+
+
+
+' Use Alt + D to open PUML Preview
